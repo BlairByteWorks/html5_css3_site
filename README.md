@@ -66,6 +66,7 @@ Deliverables
 
 Live GitHub Pages URL: https://blairbyteworks.github.io/html5_css3_site/
 
-GitHub Repository Link:
+GitHub Repository Link: https://github.com/BlairByteWorks/html5_css3_site
 
 Published Docker Image: https://hub.docker.com/repository/docker/blairbytesworks/html5_css3_site/tags
+
